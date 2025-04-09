@@ -37,7 +37,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kanchan0508/userprofileanalyzer
    cd UserProfileAnalyzer
    ```
 
@@ -85,8 +85,8 @@ You can deploy the `dist` folder to any static hosting service, such as:
 ![Home Page](public/homepage.png)
 
 
-## Google Drive Link
 
-[Download the project zip file](https://drive.google.com/file/d/your-google-drive-link/view?usp=sharing)
+
+
 
 
